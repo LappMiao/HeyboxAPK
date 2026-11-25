@@ -21,23 +21,23 @@
 > 本区块由工作流每次发布新版本时自动更新。
 
 <!-- HEYBOX-ANALYSIS:START -->
-## Release - 小黑盒 1.3.402 (1155)
+## Release - 小黑盒 1.3.403 (1157)
 
-**文件名**：`Release-1.3.402(1155)-20261123.apk`
+**文件名**：`Release-1.3.403(1157)-20261126.apk`
 
 | 项目 | 值 |
 | --- | --- |
 | 应用名称 | 小黑盒 |
 | 包名 | `com.max.xiaoheihe` |
-| 版本名称 | 1.3.402 |
-| 版本号 | 1155 |
+| 版本名称 | 1.3.403 |
+| 版本号 | 1157 |
 | 最低支持 SDK | API 23（Android 6.0 (Marshmallow)） |
 | 目标 SDK | API 34（Android 14） |
 | 支持 ABI | arm64-v8a |
-| 大小 | 122MB（127654964 字节） |
-| SHA-256 | `52ffa9bd6b57c6a866918e32363d6b9732bfa3d95cef4a8a89e40bbd24590c7f` |
+| 大小 | 145MB（151229385 字节） |
+| SHA-256 | `9e2e13b8007dac4b17f468a27efcef9354d317014f1649201aba45f578c5d720` |
 | 下载源 | https://dl.max-c.com/app/heybox/heybox-release.apk |
-| 抓取日期（北京时间） | 2026-11-23 20:57 |
+| 抓取日期（北京时间） | 2026-11-26 04:57 |
 
 <details><summary>权限列表（55 项）</summary>
 
@@ -81,9 +81,9 @@
 - `oplus.permission.settings.LAUNCH_FOR_EXPORT`
 - `com.vivo.identifier.permission.OAID_STATE_DIALOG`
 - `android.permission.FOREGROUND_SERVICE_DATA_SYNC`
-- `android.permission.MOUNT_UNMOUNT_FILESYSTEMS`
 - `android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION`
 - `com.max.xiaoheihe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION`
+- `android.permission.MOUNT_UNMOUNT_FILESYSTEMS`
 - `com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE`
 - `com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE`
 - `android.permission.ACCESS_BACKGROUND_LOCATION`
@@ -98,23 +98,23 @@
 - `com.hihonor.push.permission.READ_PUSH_NOTIFICATION_INFO`
 
 </details>
-## Beta - 小黑盒 1.3.403 (1156)
+## Beta - 小黑盒 1.3.403 (1157)
 
-**文件名**：`Beta-1.3.403(1156)-20261123.apk`
+**文件名**：`Beta-1.3.403(1157)-20261126.apk`
 
 | 项目 | 值 |
 | --- | --- |
 | 应用名称 | 小黑盒 |
 | 包名 | `com.max.xiaoheihe` |
 | 版本名称 | 1.3.403 |
-| 版本号 | 1156 |
+| 版本号 | 1157 |
 | 最低支持 SDK | API 23（Android 6.0 (Marshmallow)） |
 | 目标 SDK | API 34（Android 14） |
 | 支持 ABI | arm64-v8a |
-| 大小 | 144MB（150511842 字节） |
-| SHA-256 | `89b7ccf85b02b02becb6ca4a3267ceabb712ab2316ec5a0e1158d97cc01a156b` |
+| 大小 | 144MB（150511537 字节） |
+| SHA-256 | `3c702b5dfbc8d773db90b825f4bfbd29520418934ebe49161b2815e11adab84a` |
 | 下载源 | https://dl.max-c.com/app/heybox/heybox-beta.apk |
-| 抓取日期（北京时间） | 2026-11-23 20:57 |
+| 抓取日期（北京时间） | 2026-11-26 04:57 |
 
 <details><summary>权限列表（55 项）</summary>
 
